@@ -1,2 +1,2 @@
 # test-repo
-This is a Demo Project.
+Test repo demo project
