@@ -1,2 +1,2 @@
 # test-repo
-Tests repo demo project
+Test repo demo project
