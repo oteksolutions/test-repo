@@ -1,2 +1,2 @@
-# test-repos
+# test-repo
 Test repo demo project
